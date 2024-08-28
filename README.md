@@ -13,5 +13,3 @@ That should get it running locally so you can test it.  The site is deployed to 
 ## Contributing ##
 
 Fork this project, make a change, push to a named branch on GitHub and send me a pull request.
-
-
